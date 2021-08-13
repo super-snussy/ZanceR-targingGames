@@ -1,4 +1,4 @@
-# ZanceR v.beta2021.1.0
+# ZanceR v.beta2021-1.0
 
 Waring
 This is beta test of game "ZanceR".
